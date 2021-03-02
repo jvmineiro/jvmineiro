@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 📝Bio
-Meu nome é João Vitor Mineiro, sou formado pela UNIFACS, desenvolvedor na parte do frontend com experiencias nas principais linguagens de WEB. 
+<p> Meu nome é João Vitor Mineiro, sou formado pela UNIFACS, desenvolvedor na parte do frontend com experiencias nas principais linguagens de WEB.</p>
 
 🗃️Tecnologias
 - JAVASCRIPT

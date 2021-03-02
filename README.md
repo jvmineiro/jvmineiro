@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**jvmineiro/jvmineiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝Bio
+Meu nome é João Vitor Mineiro, sou formado pela UNIFACS, desenvolvedor na parte do frontend com experiencias nas principais linguagens de WEB. 
 
-Here are some ideas to get you started:
+🗃️Tecnologias
+- JAVASCRIPT
+- HTML
+- CSS
+- REACT
+- REDUX
+- STYLED-COMPONENTS
+- TYPESCRIPT
+- FLUTTER
+- DART
+- MYSQL 
+- MONGODB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Cheque meus repositorios abaixo, seu feedback é essencial! ⬇️</h1>

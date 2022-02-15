@@ -9,7 +9,7 @@
 
 
 ### 📝Biografia
-<p> Meu nome é João Vitor Mineiro, sou formado pela UNIFACS no ano de 2020, tendo foco na parte de Redes, em CyberSecurity, mas nunca faltando nos estudos como Desenvolvedor Frontend WEB. Com experiencias em liguagens como JS, React, Next. </p>
+<p> Meu nome é João Vitor Mineiro, sou formado pela UNIFACS no ano de 2020, tendo foco na parte de Redes, em CyberSecurity, mas nunca faltando nos estudos como Desenvolvedor Frontend WEB. Com experiencias em linguagens como Java, Javascript, React, Next. </p>
 
 
 ### 🗃️Tecnologias
